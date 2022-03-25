@@ -181,6 +181,15 @@ nav ul li a {
 .photo-day-grid > div > div {
   width: 100%;
   height: 98%;
+}
+
+.index-photo-day1 {
+  background-image: url("./img/stock.jpg");
+}
+.index-photo-day2 {
+  background-image: url("./img/stock.jpg");
+}
+.index-photo-day3 {
   background-image: url("./img/stock.jpg");
 }
 
